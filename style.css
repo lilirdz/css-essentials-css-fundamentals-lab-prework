@@ -13,3 +13,8 @@ img {
   margin-right: auto;
   margin-left: auto;
 }
+
+nav {
+  padding: 10px;
+  background-color: blue;
+}
