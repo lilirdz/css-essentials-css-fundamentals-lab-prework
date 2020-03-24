@@ -32,8 +32,6 @@ figcaption {
 
 #details {
   display: block;
-}
-
-#details nav {
   float: left;
 }
+
